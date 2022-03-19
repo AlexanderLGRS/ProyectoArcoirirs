@@ -1,6 +1,5 @@
 import React from 'react';
 import lgbt1 from '../Assets/lgbt1.jpeg';
-import lgbt2 from '../Assets/lgbt2.jpeg';
 import lgbt3 from '../Assets/lgbt3.jpeg';
 import lgbt4 from '../Assets/lgbt4.jpeg';
 import lgbt5 from '../Assets/lgbt5.jpeg';
