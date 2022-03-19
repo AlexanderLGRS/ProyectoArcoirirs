@@ -11,7 +11,6 @@
     padding: 20px 0;
     border-left: none;
     border-right: none;
-    border-bottom: none;
     border-image: -webkit-linear-gradient(right, #ff0000, #ffab00, #f5ff00, #00ff25, #00fffd, #5500ff, #aa00ff)1;
 }
 
