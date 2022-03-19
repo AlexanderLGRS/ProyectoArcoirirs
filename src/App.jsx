@@ -11,7 +11,7 @@ export default function App() {
       <Header />
       <AboutUs />
       <FairSection/>
-      <TouristPlanSection />
+      {/* <TouristPlanSection /> */}
     </React.Fragment>
   );
 }
