@@ -14,20 +14,20 @@ export default function Social() {
           <ion-icon size="large" name="logo-facebook"></ion-icon>
         </a>
         <a
-          className="socialLink instagram"
-          target="_blank"
-          rel="noreferrer"
-          href="https://www.instagram.com/reflejo.arcoirirs/"
-        >
-          <ion-icon size="large" name="logo-instagram"></ion-icon>
-        </a>
-        <a
           className="socialLink whatsapp"
           target="_blank"
           rel="noreferrer"
           href="https://www.instagram.com/reflejo.arcoirirs/"
         >
           <ion-icon size="large" name="logo-whatsapp"></ion-icon>
+        </a>
+        <a
+          className="socialLink instagram"
+          target="_blank"
+          rel="noreferrer"
+          href="https://www.instagram.com/reflejo.arcoirirs/"
+        >
+          <ion-icon size="large" name="logo-instagram"></ion-icon>
         </a>
       </div>
     </React.Fragment>

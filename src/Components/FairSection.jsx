@@ -20,31 +20,32 @@ export default function FairSection() {
           <div className="carousel-item active" data-bs-interval="10000">
             <p className="image--info">
               Crearemos un espacio en el que la comunidad, turistas y habitantes
-              se sentiran libres de expresar sus gustos, identidad de genero y
+              se sentirán libres de expresar sus gustos, identidad de género y
               demostrar su creatividad y estilo en diferentes actividades.
             </p>
             <img src={lgbt1} className="d-block" alt="..." />
           </div>
           <div className="carousel-item" data-bs-interval="10000">
             <p className="image--info">
-              Este festival cultural tendra lugar todos los años el 10 de
-              septiembre en el parque de los hippies (Calle 60 Av Kr 7 Bogotá)
+              Este festival cultural tendrá lugar todos los años el 10 de
+              septiembre en el parque de los hippies (Calle 60 Av Kr 7 Bogotá).
             </p>
             <img src={lgbt5} className="d-block" alt="..." />
           </div>
           <div className="carousel-item" data-bs-interval="10000">
             <p className="image--info">
               En busca de promover la diversidad en general, nos enfocaremos en
-              fometar el respeto, igualdad, aceptacion y empatia, creando asi un
-              espacio seguro y sano en el cual compartiremos y disfrutaremos
+              fomentar el respeto, igualdad, aceptación y empatía, generando así
+              un espacio seguro y sano en el cual compartiremos y disfrutaremos
               como comunidad.
             </p>
             <img src={lgbt3} className="d-block" alt="..." />
           </div>
           <div className="carousel-item" data-bs-interval="10000">
             <p className="image--info">
-              Entre las actividades que desarrollaremos habra desfiles, musica, muestras culturales,
-              gastronomia y un gran variedad de productos ofrecidos por emprendedores y comerciantes locales.
+              Entre las actividades que desarrollaremos habrá desfiles, música,
+              muestras culturales, gastronomía y un gran variedad de productos
+              ofrecidos por emprendedores y comerciantes locales.
             </p>
             <img src={lgbt4} className="d-block" alt="..." />
           </div>

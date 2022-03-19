@@ -8,10 +8,11 @@ export default function AboutUs() {
         <div className="infoContainer">
           <h2 className="about--title">Proyecto arcoíris</h2>
           <p className="about--phrase">
-            "Atrevete a amarte a ti mismo y a los demas como si fueras un arcoíris"
+            "Atrévete a amarte a ti mismo y a los demás como si fueras un
+            arcoíris"
           </p>
           <p className="about--info">
-            Implementaremos paquetes turisticos con las agencias de viajes, los cuales incluiran un recorrido por los atractivos túristicos culturales, de entretenimiento y gastronomicos de la localidad.
+          Implementaremos paquetes turísticos con las agencias de viajes, los cuales incluirán un recorrido por los atractivos turísticos, culturales, de entretenimiento y gastronómicos de la localidad.
           </p>
         </div>
       </div>
