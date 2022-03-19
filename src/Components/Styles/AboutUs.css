@@ -1,0 +1,45 @@
+.fluid-container {
+    background-image: url('https://images.pexels.com/photos/1704120/pexels-photo-1704120.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.infoContainer {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 50vh;
+    width: 100%;
+}
+
+.about--title {
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    font-weight: bold;
+    /* background: -webkit-linear-gradient(
+    right,
+    #ff0000,
+    #ffab00,
+    #f5ff00,
+    #00ff25,
+    #00fffd,
+    #5500ff,
+    #aa00ff
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
+}
+
+.about--phrase {
+    text-align: end;
+    padding: 10px;
+    font-style: italic;
+}
+
+.about--info {
+    padding: 5px;
+    width: 70%;
+}

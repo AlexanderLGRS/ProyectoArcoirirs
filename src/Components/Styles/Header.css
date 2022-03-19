@@ -1,0 +1,14 @@
+    .navbar {
+        text-transform: uppercase;
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .container-fluid {
+        justify-content: center;
+    }
+    
+    .logo {
+        width: 30%;
+        max-width: 100px;
+    }

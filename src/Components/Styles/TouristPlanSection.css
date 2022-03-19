@@ -1,0 +1,38 @@
+.sectionTitle {
+    color: #fff;
+    margin: 0 10px;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    font-weight: 200;
+}
+
+.carousel-inner {
+    border: 10px solid;
+    padding: 20px 0;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    border-image: -webkit-linear-gradient(right, #ff0000, #ffab00, #f5ff00, #00ff25, #00fffd, #5500ff, #aa00ff)1;
+}
+
+img {
+    margin: 0 auto;
+    width: 90%;
+    border-radius: 20px;
+}
+
+.image--title {
+    /* border-image-source: linear-gradient(right, #ff0000, #ffab00, #f5ff00, #00ff25, #00fffd, #5500ff, #aa00ff); */
+    color: #fff;
+    padding: 10px;
+}
+
+.image--info {
+    color: #fff;
+    padding: 10px 10px 0;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    display: none;
+}
